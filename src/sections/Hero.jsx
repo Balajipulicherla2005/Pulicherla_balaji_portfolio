@@ -1,6 +1,8 @@
 import { motion } from 'framer-motion';
 import { portfolioData } from '../data/portfolio';
 import './Hero.css';
+import React from "react";
+import profileImage from "../assets/profile.jpg";
 
 export default function Hero() {
   const { name, title, summary } = portfolioData.personal;
@@ -81,7 +83,7 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 0.3 }}
         >
           <div className="image-wrapper">
-            <img src="/src/assets/profile.jpg" alt={`${name} - Full Stack Developer`} />
+            <img src={profileImage} alt={`${name} - Full Stack Developer`} />
           </div>
         </motion.div>
       </div>
