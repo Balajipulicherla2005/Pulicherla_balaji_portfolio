@@ -9,6 +9,7 @@ export default function Skills() {
     { key: 'frontend', label: 'Frontend', icon: '🎨' },
     { key: 'backend', label: 'Backend', icon: '⚙️' },
     { key: 'database', label: 'Database', icon: '💾' },
+    { key: 'Testing', label: 'Software Testing & QA', icon: '🧪' },
     { key: 'realtime', label: 'Real-time', icon: '⚡' },
     { key: 'mobile', label: 'Mobile', icon: '📱' },
     { key: 'devops', label: 'DevOps', icon: '🚀' },

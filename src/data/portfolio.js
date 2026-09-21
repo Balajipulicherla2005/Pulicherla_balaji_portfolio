@@ -35,6 +35,12 @@ export const portfolioData = {
       { name: "Firebase", category: "Database" },
       { name: "SQLite", category: "Database" }
     ],
+     Testing: [
+      { name: "Selenium", category: "Software Testing & QA" },
+      { name: "Playwright", category: "Software Testing & QA" },
+      { name: "Software Development Life Cycle (SDLC)", category: "Software Testing & QA" },
+      { name: "Software Testing Life Cycle (STLC) ", category: "Software Testing & QA" }
+    ],
     realtime: [
       { name: "Socket.io", category: "Real-time" },
       { name: "WebSocket", category: "Real-time" },
