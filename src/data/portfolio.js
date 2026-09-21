@@ -38,6 +38,7 @@ export const portfolioData = {
      Testing: [
       { name: "Selenium", category: "Software Testing & QA" },
       { name: "Playwright", category: "Software Testing & QA" },
+      { name: "Test Automation", category: "Software Testing & QA" },
       { name: "Software Development Life Cycle (SDLC)", category: "Software Testing & QA" },
       { name: "Software Testing Life Cycle (STLC) ", category: "Software Testing & QA" }
     ],
